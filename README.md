@@ -1,5 +1,7 @@
 # CineSage-GenAI-Project
 
+<img width="840" height="789" alt="image" src="https://github.com/user-attachments/assets/2c6757c6-0ab5-4425-a31d-b14223fecba9" />
+
 # 🎬 Movie Information Extractor (AI-Powered)
 
 A **Streamlit** web application that uses **LangChain** and **Mistral AI** to automatically extract structured, professional-grade movie information from any plain text description. 
